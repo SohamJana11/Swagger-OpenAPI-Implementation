@@ -13,6 +13,9 @@ A Spring Boot Microservice with REST API Documentation using Swagger OpenAPI
 
 ![Screenshot 2024-06-10 185850](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/8bdfcf19-78e6-4297-b6db-dcb68d53f19e)
 
+![Screenshot 2024-06-12 125500](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/da812c60-3a22-4dc4-a4e6-165cde04151b)
+
+
 ##### Steps Performed in OpenAPIConfig Class
 
 - Package Declaration: Declared the package.
@@ -29,7 +32,7 @@ Example OpenAPIConfig class:
 
 ### Step 3: Add API Operations in Controller
 
-##### In the Controller class, added some API operations to make the interface more vivid and informative. Used appropriate Swagger annotations to document the endpoints.
+##### In the Controller class, added some API operations to make the interface more vivid and informative. Used appropriate Swagger annotations to document the endpoints. One such example is shown below - 
 
 
 ![Screenshot 2024-06-12 124512](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/9ca0a91a-662f-4c23-90d3-f12923d8fce7)
