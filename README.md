@@ -1,5 +1,5 @@
 # Swagger-OpenAPI-Implementation
-A Spring Boot Microservice with REST API Documentation using Swagger OpenAPI
+A Spring Boot Microservice with REST API Documentation using Swagger OpenAPI in 4 simple steps.
 
 ### Step 1: Add Dependency to pom.xml
 
