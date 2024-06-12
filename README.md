@@ -32,7 +32,13 @@ Example OpenAPIConfig class:
 ##### In the Controller class, added some API operations to make the interface more vivid and informative. Used appropriate Swagger annotations to document the endpoints.
 
 
-![Screenshot 2024-06-10 191336](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/386c2a29-3000-4e22-b3e8-fb42883d4bbc)
+![Screenshot 2024-06-12 124512](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/9ca0a91a-662f-4c23-90d3-f12923d8fce7)
+
+
+### Step 4: Run the main file
+
+![Screenshot 2024-06-12 124613](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/19bbe4ff-471c-4b2b-a3b1-9620415468e7)
+
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -40,7 +46,8 @@ ________________________________________________________________________________
 
 ###### After completing the above steps, the output is as follows:
 
-![Screenshot 2024-06-10 190210](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/0de6ab7d-2b06-489c-afa9-b67d1ee86d0f)
+![Screenshot 2024-06-12 124644](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/0e7568ba-36b9-489b-9c5c-54f53f641246)
+
 
 
 - A visual interface for interacting with and testing APIs is generated.
@@ -55,16 +62,20 @@ ________________________________________________________________________________
 
 One can test the addBook method at the endpoint /addBook through the Swagger UI.
 
-![Screenshot 2024-06-10 190849](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/fde30d5f-e882-4e40-967a-da5554590801)
+![Screenshot 2024-06-12 124711](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/624734ef-c43e-4ce0-ad31-f6c0b80dac2d)
+
+![Screenshot 2024-06-12 124751](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/0bba26d6-c756-4946-bef3-2e949ab72689)
+
 
 
 #### Testing the /getAllBooks Endpoint
 
 Similarly, you can test the getAllBooks method at the endpoint /getAllBooks.
 
-![Screenshot 2024-06-10 191021](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/53c73a64-e9ac-43a7-bd0a-1b0f94833c72)
+![Screenshot 2024-06-12 124853](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/1df1d0b2-ce7e-4408-b25a-998f0a635ea8)
 
-![Screenshot 2024-06-10 191008](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/7cdf6c29-de24-48ca-a4c1-fb6afbf364d8)
+![Screenshot 2024-06-12 124917](https://github.com/SohamJana11/Swagger-OpenAPI-Implementation/assets/162604344/5cfb8512-3678-4d6b-a375-dfdf5e1c6176)
+
 
 
 ##### Conclusion
